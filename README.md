@@ -4,6 +4,7 @@
 
 This project is an interactive Tic-Tac-Toe game built as a web application using HTML, CSS, and JavaScript. It provides a classic two-player (or player vs. AI) experience where the objective is to get three of your markers in a row, column, or diagonal.
 
+![Image Alt](https://github.com/sammiazaz/PRODIGY_WD_03/blob/main/Screenshot%202025-07-04%20115851.png?raw=true)
 ## Table of Contents
 
 * [Features](#features)
