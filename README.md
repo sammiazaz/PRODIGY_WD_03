@@ -46,11 +46,12 @@ You only need a modern web browser to run this application (e.g., Chrome, Firefo
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/tic-tac-toe-web-application.git](https://github.com/YOUR_USERNAME/tic-tac-toe-web-application.git)
+    git clone https://github.com/sammiazaz/PRODIGY_WD_03.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd tic-tac-toe-web-application
+    cd PRODIGY_WD_03
+
     ```
 
 ## Usage
@@ -83,6 +84,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions, suggestions, or just want to connect, feel free to reach out:
 
-* 
+* Sammi Azaz
 * **GitHub:** https://github.com/sammiazaz
 * **Email:** sammiazaz2004@gmail.com
